@@ -11,9 +11,10 @@ Online courses and materials to study data science and related subjects
   * Probability
     * [How Bayesian Inference Works](http://brohrer.github.io/how_bayesian_inference_works.html)
   * Statistics
-    * [Resampling: The New Statistics](http://www.resample.com/intro-text-online/) by Julian L. Simon
     * [Jake Vanderplas - Statistics for Hackers - PyCon 2016](https://www.youtube.com/watch?v=Iq9DzN6mvYA&t=553s)
+      * [Jupyter notebook to accompany Jake VanderPlas's "Statistics for Hackers" talk from PyCon 2016](https://github.com/croach/statistics-for-hackers)
     * [Statistics without the Agonizing Pain](https://www.youtube.com/watch?v=5Dnw46eC-0o&t=601s)
+    * [Resampling: The New Statistics](http://www.resample.com/intro-text-online/) by Julian L. Simon
   * Linear Algebra
     * [The Essence of Linear Algebra](https://www.youtube.com/watch?v=kjBOesZCoqc&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) (YouTube playlist)
   * Calculus
