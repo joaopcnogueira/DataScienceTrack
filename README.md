@@ -10,6 +10,7 @@ Online courses and materials to study data science and related subjects
 * Related math contents
   * Probability
     * [How Bayesian Inference Works](http://brohrer.github.io/how_bayesian_inference_works.html)
+    * [Think Bayes](https://greenteapress.com/wp/think-bayes/)
   * Statistics
     * [Jake Vanderplas - Statistics for Hackers - PyCon 2016](https://www.youtube.com/watch?v=Iq9DzN6mvYA&t=553s)
       * [Jupyter notebook to accompany Jake VanderPlas's "Statistics for Hackers" talk from PyCon 2016](https://github.com/croach/statistics-for-hackers)
