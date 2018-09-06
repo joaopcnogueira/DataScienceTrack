@@ -6,6 +6,7 @@ Online courses and materials to study data science and related subjects
     * Path [Applied Data Science with Python](https://cognitiveclass.ai/learn/data-science-with-python/)
     * Course [Machine Learning with Python](https://cognitiveclass.ai/courses/machine-learning-with-python/)
   * [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook) by Jake VanderPlas
+  * [Data Science at the Command Line](https://www.datascienceatthecommandline.com) by Jeroen Janssens
   
 * Related math contents
   * Probability
