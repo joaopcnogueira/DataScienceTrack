@@ -3,6 +3,7 @@ Online courses and materials to study data science and related subjects
 
 * Data Science / Machine Learning
   * [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook) by Jake VanderPlas
+  * [R for Data Science](https://r4ds.had.co.nz/explore-intro.html)
   * [Machine Learning from Coursera](https://www.coursera.org/learn/machine-learning)
   * [Machine Learning A-Z from Udemy](https://www.udemy.com/machinelearning/)
   * [Cognitive Class from IBM](https://cognitiveclass.ai/)
