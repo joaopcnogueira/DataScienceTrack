@@ -6,7 +6,7 @@ Online courses and materials to study data science and related subjects
   * [R for Data Science](https://r4ds.had.co.nz/explore-intro.html)
   * [Machine Learning from Coursera](https://www.coursera.org/learn/machine-learning)
   * [Machine Learning A-Z from Udemy](https://www.udemy.com/machinelearning/)
-  * [Advanced Introduction to Machine Learning with Andrew Ng at Standford] (https://www.youtube.com/watch?v=UzxYlbK2c7E&list=PLA89DCFA6ADACE599)
+  * [Advanced Introduction to Machine Learning with Andrew Ng at Stanford](https://www.youtube.com/watch?v=UzxYlbK2c7E&list=PLA89DCFA6ADACE599)
   * [Cognitive Class from IBM](https://cognitiveclass.ai/)
     * Path [Applied Data Science with Python](https://cognitiveclass.ai/learn/data-science-with-python/)
     * Course [Machine Learning with Python](https://cognitiveclass.ai/courses/machine-learning-with-python/)
