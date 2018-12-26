@@ -28,3 +28,9 @@ Online courses and materials to study data science and related subjects
     * [The Essence of Linear Algebra](https://www.youtube.com/watch?v=kjBOesZCoqc&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) (YouTube playlist from 3blue1brown)
   * Calculus
     * [The Essence of Calculus](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr) (YouTube playlist from 3blue1brown)
+    
+* Blogs
+  * [Brandon Rohrer](https://brohrer.github.io/blog.html)
+  * [Jake Vanderplas](http://vanderplas.com/)
+  * [KDnuggets](https://www.kdnuggets.com/)
+  * [Towards Data Science](https://towardsdatascience.com/)
