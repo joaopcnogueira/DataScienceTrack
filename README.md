@@ -34,3 +34,5 @@ Online courses and materials to study data science and related subjects
   * [Jake Vanderplas](http://vanderplas.com/)
   * [KDnuggets](https://www.kdnuggets.com/)
   * [Towards Data Science](https://towardsdatascience.com/)
+  * [Machine Learning Mastery](https://machinelearningmastery.com/)
+  * [Data Hackers](https://medium.com/data-hackers)
