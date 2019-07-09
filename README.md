@@ -14,6 +14,7 @@ Online courses and materials to study data science and related subjects
   * [Data Science at the Command Line](https://www.datascienceatthecommandline.com) by Jeroen Janssens
   * [Neural Networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) (YouTube playlist from 3blue1brown)
   * [Neural Networks and Deep Learning Book](http://neuralnetworksanddeeplearning.com/)
+  * [Kaggle Ensembling Guide](https://mlwave.com/kaggle-ensembling-guide/)
   
 * Related math contents
   * Probability
